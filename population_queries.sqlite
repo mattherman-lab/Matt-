@@ -1,0 +1,3 @@
+SELECT population, country, year
+FROM population_years 
+WHERE country = 'Indonesia';
